@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there I'm Vlad Rakhaev👋
+
+Я начинающий специалист в области аналитики данных и ML
 
 <!--
 **qqaazz112211/qqaazz112211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
